@@ -11,6 +11,10 @@ BLAH
 palace
 BLAH
 
+HA HA 
+fruits
+homes
+
 @
 #
 $
