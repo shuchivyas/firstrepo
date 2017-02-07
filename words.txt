@@ -10,3 +10,8 @@ Banana
 orange
 palace
 dog
+
+@
+#
+$
+%
