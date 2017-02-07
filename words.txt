@@ -6,3 +6,7 @@ Apple
 Aardvark
 Castle
 ...
+Banana 
+orange
+palace
+dog
